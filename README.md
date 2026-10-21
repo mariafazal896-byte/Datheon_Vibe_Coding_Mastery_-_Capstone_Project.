@@ -39,7 +39,7 @@ Install [Node.js (LTS)](https://nodejs.org/), which includes npm.
 1. Clone this repository:
 
    ```bash
-  [View the GitHub Repository](https://github.com/mariafazal896-byte/Datheon_Vibe_Coding_Mastery_-_Capstone_Project)
+   git clone https://github.com/mariafazal896-byte/Datheon_Vibe_Coding_Mastery_-_Capstone_Project.git
    ```
 
 2. Open the project folder:
@@ -117,6 +117,8 @@ This project demonstrates AI-assisted development through natural-language promp
 It was developed as part of the **Datheon Vibe Coding Mastery & Capstone Project**.
 
 ## License
+
+No license has been specified for this project yet.
 
 No license has been specified for this project yet.
 r respective owners unless a license is added to this repository.
